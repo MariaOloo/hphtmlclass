@@ -1,0 +1,39 @@
+.fruits{
+    border: black 5px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: blueviolet;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.Cars{
+    border: black 2px solid;
+    padding: 10px;
+    margin: 20px;
+    background-color: blue;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.FRUITS{
+    border: black 2px solid;
+    padding: 10px;
+    margin: 20px;
+    background-color: cyan;
+    text-align: end;
+    color: antiquewhite;
+}
+
+img{
+    width: 50%;
+}
+
+#School{
+    border: black 20px solid;
+    padding: 10px;
+    margin: 20px;
+    background-color: chocolate;
+    text-align: center;
+    color: antiquewhite;
+}
